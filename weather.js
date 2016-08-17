@@ -1,4 +1,4 @@
-var sami = "https://api.artik.cloud/v1.1/messages";
+var artikcloud = "https://api.artik.cloud/v1.1/messages";
 var bearer = "Bearer INSERT_DEVICE_TOKEN_HERE";
 var sdid = "INSERT_DEVICE_ID_HERE";
 
@@ -35,7 +35,7 @@ sp.on("open", function () {
 	sp.on('data', function(data) {
 		var args = build_args(parseInt(data).toString(), new Date().valueOf());
 
-		c.post(sami, args, function(data, response) {            
+		c.post(artikcloud, args, function(data, response) {            
 			console.log(data);
         	});	    
 	});
