@@ -15,12 +15,12 @@ This repository contains the following software:
 Sketch Program for Arduino
 -------------
 
-The code is located in `dht11` directory. Consult [Set up the Arduino and the temperature sensor](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#set-up-the-Arduino-and-the-temperature-sensor) in the tutorial to install the packages and to run the program on the Pi.
+The code is located in `dht11` directory. Consult [Set up the Arduino and the temperature sensor](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud.html#arduino) in the tutorial to install the packages and to run the program on the Pi.
 
 Nodejs Program for Raspberry Pi
 -------------
 
-The code is located in root directory. Consult [Set up the Raspberry Pi](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#set-up-the-raspberry-pi) in the tutorial to install the packages and to run the program on the Pi.
+The code is located in root directory. Consult [Set up the Raspberry Pi](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud.html#raspberrypi) in the tutorial to install the packages and to run the program on the Pi.
 
 More about ARTIK Cloud
 ---------------
