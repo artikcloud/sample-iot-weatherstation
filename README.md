@@ -5,7 +5,7 @@ Let's build a weather station that sends temperature sensor data to ARTIK Cloud 
 Introduction
 -------------
 
-The blog post [Make an IoT Weather Station with ARTIK Cloud](https://www.artik.io/blog/2016/08/make-an-iot-weather-station-with-artik-cloud/) at https://www.artik.io/blog/cloud/ describes what the system does and how it is implemented.
+The blog post [Make an IoT Weather Station with ARTIK Cloud](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/) at https://www.artik.io/blog/cloud/ describes what the system does and how it is implemented.
 
 This repository contains the following software:
 
@@ -15,12 +15,12 @@ This repository contains the following software:
 Sketch Program for Arduino
 -------------
 
-The code is located in `dht11` directory. Consult [Set up the Arduino and the temperature sensor](https://www.artik.io/blog/2016/08/make-an-iot-weather-station-with-artik-cloud/#set-up-the-Arduino-and-the-temperature-sensor) in the tutorial to install the packages and to run the program on the Pi.
+The code is located in `dht11` directory. Consult [Set up the Arduino and the temperature sensor](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#set-up-the-Arduino-and-the-temperature-sensor) in the tutorial to install the packages and to run the program on the Pi.
 
 Nodejs Program for Raspberry Pi
 -------------
 
-The code is located in root directory. Consult [Set up the Raspberry Pi](https://www.artik.io/blog/2016/08/make-an-iot-weather-station-with-artik-cloud/#set-up-the-raspberry-pi) in the tutorial to install the packages and to run the program on the Pi.
+The code is located in root directory. Consult [Set up the Raspberry Pi](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#set-up-the-raspberry-pi) in the tutorial to install the packages and to run the program on the Pi.
 
 More about ARTIK Cloud
 ---------------
