@@ -12,7 +12,7 @@ This repository contains the following software:
  - A Sketch program running on the Arduino
  - A Node.js script running on the Raspberry Pi
  
-Before running the above programs, make sure you finish [setup at ARTIK Cloud](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#connect-to-sami-its-free-really)
+Before running the above programs, make sure you finish [setup at ARTIK Cloud](https://www.artik.io/blog/2016/08/make-iot-weather-station-artik-cloud/#connect-to-sami-its-free-really).
 
 Sketch Program for Arduino
 -------------
